@@ -99,6 +99,25 @@ I transform ideas into high-performance web applications that are scalable by of
     </div>
 </div>
 <!-- End Connect Section -->
+
+<!-- Donate Section -->
+<div align="center">
+
+  # :heart: **Support My Work**
+
+  If you find my projects helpful and would like to support my work, you can donate via Frimi.
+  <br><br>
+  <img src="./assert/donate_qr.jpg" alt="Donate QR Code" width="300" />
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/💝_Scan_to_Donate-FF69B4?style=for-the-badge&logoColor=white&labelColor=2C2C2C" alt="Donate" />
+  </p>
+  
+  Your support helps me continue creating open-source projects and sharing knowledge with the community!
+
+</div>
+<!-- End Donate Section -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
